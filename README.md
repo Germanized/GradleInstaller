@@ -119,4 +119,5 @@ Feel free to fork this repository, make improvements, and submit pull requests. 
 
 ## License
 
-This project is open-source and available under the [MIT License](LICENSE.md). (You would need to add a `LICENSE.md` file with the MIT License text if you want this).
+This project is open-source and available under the [MIT License](LICENSE.md).
+
